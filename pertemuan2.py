@@ -109,4 +109,4 @@ print()
 # operator logika
 print((a>b) and (a==b))
 print((a>b) or (a==b))
-print(not ((a>b) or (a==b)))
+print(not ((a>b) or (a==b)))#not membalikkan fungsi akhir dari operator or 
